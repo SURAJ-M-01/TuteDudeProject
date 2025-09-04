@@ -1,4 +1,4 @@
 # Python-Assignments
-This is my First Git Repository
+This is my Second Git Repository
 <br>
 Author - Suraj Maske
